@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "name": "Chef A",
-      "picture": "https://example.com/chef-a.jpg",
+      "name": "Anne-Sophie",
+      "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Paul-Bocuse-top-10-cgefs-in-france.jpg",
       "experience": 10,
       "number_of_recipes": 20,
       "likes": 5000,
-      "bio": "Chef A is a graduate of the Culinary Institute of America and has worked in top restaurants around the world. Their cuisine is inspired by traditional French techniques and local ingredients.",
+      "bio": "Anne-Sophie is a graduate of the Culinary Institute of America and has worked in top restaurants around the world. Their cuisine is inspired by traditional French techniques and local ingredients.",
       "recipes": [
         {
           "id": 1,
@@ -36,12 +36,12 @@
     },
     {
       "id": 2,
-      "name": "Chef B",
-      "picture": "https://example.com/chef-b.jpg",
+      "name": "Thomas Keller",
+      "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Thomas-Keller-2-612x306.jpg",
       "experience": 5,
       "number_of_recipes": 10,
       "likes": 2000,
-      "bio": "Chef B is a self-taught chef who loves to experiment with new flavors and techniques. Their cuisine is influenced by Asian and Latin American cuisines.",
+      "bio": "Thomas Keller is a self-taught chef who loves to experiment with new flavors and techniques. Their cuisine is influenced by Asian and Latin American cuisines.",
       "recipes": [
         {
             "id": 4,
@@ -71,12 +71,12 @@
     },
     {
         "id": 3,
-        "name": "Chef X",
-        "picture": "https://example.com/chef-x.jpg",
+        "name": "Mario Batali",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Mario-Batali-1.jpg",
         "experience": 8,
         "number_of_recipes": 15,
         "likes": 3000,
-        "bio": "Chef X has a passion for creating innovative dishes that blend different cultural influences. They have worked in several Michelin-starred restaurants and love to experiment with molecular gastronomy.",
+        "bio": "Mario Batali has a passion for creating innovative dishes that blend different cultural influences. They have worked in several Michelin-starred restaurants and love to experiment with molecular gastronomy.",
         "recipes": [
           {
             "id": 7,
@@ -106,12 +106,12 @@
       },
       {
         "id": 4,
-        "name": "Chef A",
-        "picture": "https://example.com/chef-a.jpg",
+        "name": "Eric Ripert",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Eric-Ripert-1.jpg",
         "experience": 10,
         "number_of_recipes": 25,
         "likes": 5000,
-        "bio": "Chef A is a master of French cuisine, with experience working in some of the world's top fine dining restaurants. They are known for their elegant and refined dishes, and their attention to detail is unmatched.",
+        "bio": "Eric Ripert is a master of French cuisine, with experience working in some of the world's top fine dining restaurants. They are known for their elegant and refined dishes, and their attention to detail is unmatched.",
         "recipes": [
           {
             "id": 10,
@@ -141,12 +141,12 @@
       },
       {
         "id": 5,
-        "name": "Chef B",
-        "picture": "https://example.com/chef-b.jpg",
+        "name": "William Bradley",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/William-Bradley-2.jpg",
         "experience": 8,
         "number_of_recipes": 20,
         "likes": 4500,
-        "bio": "Chef B is a versatile chef who has worked in kitchens all over the world. They are skilled in a variety of cuisines and are always experimenting with new flavor combinations.",
+        "bio": "William Bradley is a versatile chef who has worked in kitchens all over the world. They are skilled in a variety of cuisines and are always experimenting with new flavor combinations.",
         "recipes": [
           {
             "id": 13,
@@ -176,12 +176,12 @@
       },
       {
         "id": 6,
-        "name": "Chef C",
-        "picture": "https://example.com/chef-c.jpg",
+        "name": "Aliya LeeKong",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Aliya-LeeKong-2.jpg",
         "experience": 10,
         "number_of_recipes": 30,
         "likes": 7500,
-        "bio": "Chef C has been cooking for over 20 years and has trained in some of the best kitchens in the world. They specialize in French cuisine but also love to experiment with fusion dishes.",
+        "bio": "Aliya LeeKong has been cooking for over 20 years and has trained in some of the best kitchens in the world. They specialize in French cuisine but also love to experiment with fusion dishes.",
         "recipes": [
           {
             "id": 16,
