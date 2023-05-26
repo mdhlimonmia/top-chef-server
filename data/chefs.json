@@ -11,7 +11,7 @@
         {
           "id": 1,
           "name": "Beef Wellington",
-          "image": "https://example.com/ratatouille.jpg",
+          "image": "https://static01.nyt.com/images/2019/12/13/dining/mc-beef-wellington/mc-beef-wellington-articleLarge-v2.jpg",
           "ingredients": ["beef fillet", "mushrooms", "puff pastry", "spinach", "prosciutto", "egg"],
           "cooking_method": "1. Sear the beef fillet on all sides\n2. Spread mushroom duxelles on puff pastry and wrap the beef in it\n3. Bake in the oven until golden brown",
           "rating": 4.5
@@ -19,7 +19,7 @@
         {
           "id": 2,
           "name": "Lobster Bisque",
-          "image": "https://example.com/ratatouille.jpg",
+          "image": "https://www.feastingathome.com/wp-content/uploads/2021/02/lobster-bisque-recipe-4.jpg",
           "ingredients": ["lobster", "onion", "carrot", "celery", "cream", "brandy"],
           "cooking_method": "1. Saute onion, carrot, and celery in butter\n2. Add lobster shells and brandy and simmer\n3. Strain and add cream and chopped lobster meat",
           "rating": 4.2
@@ -27,7 +27,7 @@
         {
           "id": 3,
           "name": "Chocolate Souffle",
-          "image": "https://example.com/ratatouille.jpg",
+          "image": "https://www.savingdessert.com/wp-content/uploads/2018/01/Chocolate-Souffles-with-Baileys-Creme-Anglaise-4.jpg",
           "ingredients": ["chocolate", "butter", "sugar", "flour", "egg", "milk"],
           "cooking_method": "1. Melt chocolate and butter in a double boiler\n2. Beat egg whites and sugar until stiff peaks form\n3. Fold in flour, egg yolks, and chocolate mixture\n4. Bake in ramekins until risen",
           "rating": 4.8
@@ -46,7 +46,7 @@
         {
             "id": 4,
             "name": "Roasted Cauliflower Steak",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["cauliflower", "olive oil", "smoked paprika", "garlic", "lemon", "parsley"],
             "cooking_method": "1. Slice cauliflower into thick steaks and season with olive oil, smoked paprika, and garlic\n2. Roast in the oven until tender and browned\n3. Serve with a squeeze of lemon and chopped parsley",
             "rating": 4.2
@@ -54,7 +54,7 @@
           {
             "id": 5,
             "name": "Roasted Cauliflower Steak",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["cauliflower", "olive oil", "smoked paprika", "garlic", "lemon", "parsley"],
             "cooking_method": "1. Slice cauliflower into thick steaks and season with olive oil, smoked paprika, and garlic\n2. Roast in the oven until tender and browned\n3. Serve with a squeeze of lemon and chopped parsley",
             "rating": 4.2
@@ -62,7 +62,7 @@
           {
             "id": 6,
             "name": "Korean Fried Chicken",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["chicken wings", "flour", "cornstarch", "egg", "gochujang", "soy sauce", "garlic", "ginger"],
             "cooking_method": "1. Mix flour and cornstarch\n2. Beat egg with gochujang, soy sauce, garlic, and ginger\n3. Coat chicken wings in flour mixture and fry until crispy\n4. Toss wings in gochujang sauce",
             "rating": 4.6
@@ -81,7 +81,7 @@
           {
             "id": 7,
             "name": "Scallop Ceviche",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["scallop", "lime juice", "red onion", "cilantro", "avocado", "tortilla chips"],
             "cooking_method": "1. Slice scallops thinly and marinate in lime juice\n2. Add diced red onion and chopped cilantro\n3. Serve with sliced avocado and tortilla chips",
             "rating": 4.7
@@ -89,7 +89,7 @@
           {
             "id": 8,
             "name": "Sous Vide Steak",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["steak", "salt", "pepper", "rosemary", "garlic"],
             "cooking_method": "1. Season steak with salt, pepper, rosemary, and garlic\n2. Seal in vacuum bag and cook in sous vide water bath\n3. Finish by searing in a hot pan",
             "rating": 4.5
@@ -97,7 +97,7 @@
           {
             "id": 9,
             "name": "Matcha Tiramisu",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["ladyfingers", "mascarpone cheese", "matcha powder", "sugar", "egg yolks", "whipped cream"],
             "cooking_method": "1. Beat egg yolks with sugar until thick and pale\n2. Fold in mascarpone cheese and whipped cream\n3. Dip ladyfingers in matcha tea and layer with the mascarpone mixture\n4. Chill and dust with matcha powder before serving",
             "rating": 4.8
@@ -116,7 +116,7 @@
           {
             "id": 10,
             "name": "Beef Wellington",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["beef tenderloin", "mushrooms", "puff pastry", "prosciutto", "egg wash"],
             "cooking_method": "1. Sear beef tenderloin and set aside\n2. Saute mushrooms with shallots and garlic\n3. Spread prosciutto and mushroom mixture over puff pastry\n4. Wrap beef tenderloin in puff pastry and brush with egg wash\n5. Bake in oven until golden brown and cooked to desired temperature",
             "rating": 4.9
@@ -124,7 +124,7 @@
           {
             "id": 11,
             "name": "Lobster Bisque",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["lobster", "heavy cream", "butter", "shallots", "celery", "carrots", "tomato paste"],
             "cooking_method": "1. Saute shallots, celery, and carrots in butter\n2. Add tomato paste and cook until caramelized\n3. Add lobster and cover with water\n4. Simmer until lobster is cooked\n5. Remove lobster and puree soup with heavy cream\n6. Serve with chopped lobster meat",
             "rating": 4.7
@@ -132,7 +132,7 @@
           {
             "id": 12,
             "name": "Creme Brulee",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["heavy cream", "sugar", "egg yolks", "vanilla extract"],
             "cooking_method": "1. Heat cream and sugar until just boiling\n2. Beat egg yolks with vanilla extract\n3. Slowly pour hot cream into egg mixture, whisking constantly\n4. Pour mixture into ramekins and bake in a water bath\n5. Chill and sprinkle with sugar before torching to create a caramelized crust",
             "rating": 4.8
@@ -151,7 +151,7 @@
           {
             "id": 13,
             "name": "Spicy Shrimp Stir Fry",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["shrimp", "garlic", "ginger", "bell peppers", "onion", "chili flakes", "soy sauce", "rice vinegar"],
             "cooking_method": "1. Heat oil in a wok\n2. Add garlic and ginger and sauté for 30 seconds\n3. Add shrimp and cook until pink\n4. Add sliced bell peppers and onion\n5. Add soy sauce, rice vinegar, and chili flakes\n6. Stir-fry for another minute and serve over rice",
             "rating": 4.5
@@ -159,7 +159,7 @@
           {
             "id": 14,
             "name": "Roasted Vegetable Salad",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["butternut squash", "Brussels sprouts", "red onion", "pecans", "olive oil", "maple syrup", "Dijon mustard", "apple cider vinegar"],
             "cooking_method": "1. Preheat oven to 425°F\n2. Toss butternut squash, Brussels sprouts, and red onion with olive oil, salt, and pepper\n3. Roast in the oven for 25-30 minutes\n4. Toss roasted vegetables with pecans, maple syrup, Dijon mustard, and apple cider vinegar\n5. Serve warm or at room temperature",
             "rating": 4.8
@@ -167,7 +167,7 @@
           {
             "id": 15,
             "name": "Thai Red Curry Chicken",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["chicken thighs", "red curry paste", "coconut milk", "carrots", "bell peppers", "bamboo shoots", "fish sauce", "brown sugar"],
             "cooking_method": "1. Heat oil in a pot or wok\n2. Add red curry paste and sauté for a minute\n3. Add chicken and cook until browned\n4. Add sliced carrots and bell peppers\n5. Add coconut milk and bring to a boil\n6. Reduce heat and add bamboo shoots, fish sauce, and brown sugar\n7. Simmer until chicken is cooked and sauce has thickened\n8. Serve with rice",
             "rating": 4.7
@@ -186,7 +186,7 @@
           {
             "id": 16,
             "name": "Ratatouille",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["eggplant", "zucchini", "yellow squash", "tomatoes", "red onion", "garlic", "herbs de Provence", "olive oil"],
             "cooking_method": "1. Preheat oven to 375°F\n2. Slice eggplant, zucchini, and yellow squash into 1/4-inch rounds\n3. Slice tomatoes and red onion into thin rounds\n4. Arrange vegetables in a casserole dish in alternating layers\n5. Sprinkle garlic and herbs de Provence over the vegetables\n6. Drizzle with olive oil\n7. Cover with foil and bake for 45 minutes\n8. Remove foil and bake for an additional 15 minutes until vegetables are tender and slightly browned",
             "rating": 4.9
@@ -194,7 +194,7 @@
           {
             "id": 17,
             "name": "Korean Fried Chicken",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["chicken wings", "flour", "cornstarch", "garlic powder", "onion powder", "salt", "pepper", "gochujang", "honey", "soy sauce", "rice vinegar"],
             "cooking_method": "1. Preheat oven to 400°F\n2. Mix flour, cornstarch, garlic powder, onion powder, salt, and pepper in a bowl\n3. Coat chicken wings in the flour mixture\n4. Place wings on a wire rack on top of a baking sheet\n5. Bake for 40-45 minutes until crispy and golden brown\n6. Mix gochujang, honey, soy sauce, and rice vinegar in a small saucepan\n7. Heat over low heat until the sauce thickens\n8. Toss the baked wings in the sauce and serve immediately",
             "rating": 4.7
@@ -202,7 +202,7 @@
           {
             "id": 18,
             "name": "Mango Lassi",
-            "image": "https://example.com/ratatouille.jpg",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/cauliflower-steak.jpg",
             "ingredients": ["mango", "yogurt", "milk", "honey", "cardamom"],
             "cooking_method": "1. Peel and chop mango into small pieces\n2. Add mango, yogurt, milk, honey, and cardamom to a blender\n3. Blend until smooth and creamy\n4. Pour into glasses and serve chilled",
             "rating": 4.6
